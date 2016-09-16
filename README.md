@@ -1,5 +1,4 @@
-# clut
-HaldCLUT Presets
+#HaldCLUT Presets
 
 * **Black and White** (by [Pat David](http://blog.patdavid.net/2013/08/film-emulation-presets-in-gmic-gimp.html))
 * **Instant (consumer)** (by [Pat David](http://blog.patdavid.net/2013/08/film-emulation-presets-in-gmic-gimp.html))
